@@ -109,20 +109,18 @@ This ticket can then be updated as the support issue is investigated and resolve
 
 This screen allows a user to create a new IT support ticket.
 
-![Create Ticket](createticket.png)
+![Create Ticket](screenshots/createticket.png)
 
 ### Edit Ticket
 
 This screen allows an existing ticket to be updated.
 
-![Edit Ticket](editticket.png)
-
+![Edit Ticket](screenshots/editticket.png)
 ### Tickets
 
 This screen displays the tickets recorded in the system.
 
-![Tickets](tickets.png)
-
+![Tickets](screenshots/tickets.png)
 ## Running the Project
 
 ### 1. Start the Backend
